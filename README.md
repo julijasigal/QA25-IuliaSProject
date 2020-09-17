@@ -1,0 +1,1 @@
+# QA25-IuliaSProject
